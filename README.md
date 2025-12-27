@@ -1,70 +1,86 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontAlignY=40&color=00b4d8&height=150&section=header&text=Dinesh%20Daki&fontSize=80&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=220&section=header&text=Dinesh%20Daki&fontSize=80&animation=fadeIn&fontColor=ffffff" width="100%" />
 
-  ### **Software Engineer | Distributed Systems & AI Infrastructure**
-  **L.A. Based • Open to Relocation • Dec 2025 Graduate**
+  <br />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=50&lines=Software+Engineer;AWS+Certified+Developer;AI+Infrastructure+Architect;Distributed+Systems+Specialist" alt="Typing SVG" />
 
   <p align="center">
-    <img src="https://img.shields.io/badge/OPEN_TO_WORK-FAANG_&_Top_Tech-00b4d8?style=for-the-badge&logo=linkedin" />
-    <img src="https://img.shields.io/badge/AWS-Certified_Developer-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+    <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00b4d8?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/GPA-3.8%2F4.0-white?style=for-the-badge&logo=google-scholar&logoColor=black" />
   </p>
 
-  [**Portfolio**](https://dakidinesh.github.io/portfolio) • [**LinkedIn**](https://linkedin.com/in/dineshdaki) • [**LeetCode**](https://leetcode.com/u/dakidinesh) • [**Resume**](https://github.com/dakidinesh/dakidinesh/raw/main/Dinesh_Daki_Resume.pdf)
+  <a href="https://linkedin.com/in/dineshdaki"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/dakidinesh/dakidinesh/raw/main/Dinesh_Daki_Resume.pdf"><img src="https://img.shields.io/badge/Download_Resume-FF9900?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" /></a>
+
 </div>
 
 ---
 
-### 🏛️ Engineering Philosophy
-> *"I don't just write code; I architect systems. My focus is on horizontal scalability, minimizing p99 latency, and building robust AI-driven backends that handle massive scale."*
+### 🌌 System Architecture Expertise
 
----
-
-### 🛠️ Technical Stack (FAANG-Relevant)
-
-| Category | Specialized Technologies |
-| :--- | :--- |
-| **Backend Architecture** | `Python (Advanced)`, `TypeScript`, `Node.js`, `Go`, `C++`, `FastAPI` |
-| **Distributed Systems** | `AWS (EC2, S3, Lambda)`, `Docker`, `Microservices`, `Redis`, `RabbitMQ` |
-| **Database Engineering** | `PostgreSQL`, `MySQL`, `Prisma ORM`, `Query Optimization`, `NoSQL` |
-| **AI & Intelligence** | `GenAI`, `LLM Orchestration`, `TensorFlow`, `Computer Vision`, `PyTorch` |
-
----
-
-### 🚀 High-Impact Wins (The "Numbers" Section)
-FAANG recruiters scan for performance metrics. Here is my track record:
-
-* ⚡ **Latency Optimization:** Reduced API response times by **35%** at ReplyQuickAI by implementing asynchronous processing and server-side caching.
-* 🏗️ **Systems Scalability:** Architected a campaign engine capable of handling **100K+ concurrent requests** for SMS/Voice workflows.
-* 💾 **Database Tuning:** Refactored complex relational queries to achieve a **40% increase** in data retrieval speed.
-* 🎓 **Academic Excellence:** Maintaining a **3.8/4.0 GPA** in MS Computer Science at CSU Fullerton.
-
----
-
-### 🧪 Featured "FAANG-Grade" Projects
-
-#### 🤖 [CaptionGen | Multimodal LLM Orchestrator](https://github.com/dakidinesh/CaptionGen)
-* **The Challenge:** Building a context-aware AI that handles multimodal input with minimal tokens.
-* **The Solution:** Integrated **Gemini 2.0 Flash** with a Python/React stack, focusing on prompt engineering and real-time preview reliability.
-
-#### 🎵 [MoodTunes | Real-Time CV Engine](https://github.com/dakidinesh/MoodTunes)
-* **The Challenge:** Low-latency facial emotion detection in a web environment.
-* **The Solution:** Developed a **CNN-based classifier** using TensorFlow/OpenCV, optimized for live webcam streaming and Spotify API integration.
-
----
-
-### 📊 Engineering Metrics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dakidinesh&show_icons=true&theme=transparent&title_color=00b4d8&text_color=ffffff&icon_color=00b4d8&hide_border=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakidinesh&layout=compact&theme=transparent&title_color=00b4d8&text_color=ffffff&hide_border=true" width="42%" />
+  <table border="0">
+    <tr>
+      <td width="33%" align="center">
+        <img src="https://skillicons.dev/icons?i=python,nodejs,ts,aws&perline=2" /><br />
+        <b>Core & Cloud</b>
+      </td>
+      <td width="33%" align="center">
+        <img src="https://skillicons.dev/icons?i=postgres,prisma,docker,mysql&perline=2" /><br />
+        <b>Infra & Data</b>
+      </td>
+      <td width="33%" align="center">
+        <img src="https://skillicons.dev/icons?i=tensorflow,fastapi,react,nextjs&perline=2" /><br />
+        <b>AI & Frontend</b>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-### 📫 Let's Talk System Design
-* 🔭 **Currently:** Deep diving into **Vector Databases** and **RAG Architecture**.
-* 💬 **Ask me about:** Why I chose **PostgreSQL** over NoSQL for high-consistency financial workflows.
-* ⚡ **Goal:** Engineering the next generation of scalable AI at a global scale.
+### ⚡ Performance Benchmarks
+Recruiters and FAANG engineers look for optimization. Here is my impact:
+
+- 🏎️ **p99 Latency:** Reduced by **35%** via async processing & server-side caching.
+- 🚀 **System Throughput:** Scaled backend to handle **100K+ concurrent requests**.
+- 🔍 **Data Retrieval:** Boosted query performance by **40%** using Prisma/PostgreSQL tuning.
+
+
+
+---
+
+### 🔥 Featured Laboratory
+
+#### 🤖 [CaptionGen](https://github.com/dakidinesh/CaptionGen) — `Generative AI`
+> **The Effect:** Multimodal image-to-text orchestration using **Gemini 2.0 Flash**.
+> - Sub-second latency for AI metadata generation.
+> - Advanced prompt engineering for context-aware captions.
+
+#### 🎧 [MoodTunes](https://github.com/dakidinesh/MoodTunes) — `Computer Vision`
+> **The Effect:** Real-time facial expression mapping to Spotify API.
+> - High-accuracy **CNN-based** emotion classifier.
+> - Low-latency webcam stream processing.
+
+---
+
+### 📊 Code Pulse (Dark Transparent Mode)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dakidinesh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakidinesh&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="42%" />
+</div>
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dakidinesh&theme=tokyonight" width="100%" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dakidinesh&color=00b4d8&style=flat-square&label=VISITOR+LOGS" />
+  <br />
+  <i>📍 Los Angeles, CA • <b>Open to Relocation</b> • Looking for 2025 Engineering Roles</i>
+  <br />
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00b4d8&height=20&section=footer" width="100%" />
 </div>
