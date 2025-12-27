@@ -1,86 +1,77 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=220&section=header&text=Dinesh%20Daki&fontSize=80&animation=fadeIn&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Dinesh%20Daki&fontSize=80&animation=twinkling" width="100%" />
 
   <br />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=50&lines=Software+Engineer;AWS+Certified+Developer;AI+Infrastructure+Architect;Distributed+Systems+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=50&lines=Software+Engineer;AWS+Certified+Developer;AI+Infrastructure+Architect;Distributed+Systems+Specialist" alt="Typing SVG" />
 
   <p align="center">
     <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00b4d8?style=for-the-badge&logo=linkedin&logoColor=white" />
     <img src="https://img.shields.io/badge/GPA-3.8%2F4.0-white?style=for-the-badge&logo=google-scholar&logoColor=black" />
   </p>
 
-  <a href="https://linkedin.com/in/dineshdaki"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/dakidinesh/dakidinesh/raw/main/Dinesh_Daki_Resume.pdf"><img src="https://img.shields.io/badge/Download_Resume-FF9900?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" /></a>
-
+  <a href="https://linkedin.com/in/dineshdaki" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/dakidinesh/dakidinesh/raw/main/Dinesh_Daki_Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-FF9900?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
+  <a href="mailto:dakidinesh0711@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 ---
 
-### 🌌 System Architecture Expertise
+### 🧬 The Architecture
+I specialize in building **high-concurrency backend systems** and **multimodal AI pipelines**. My engineering approach prioritizes p99 latency reduction and horizontal scalability.
+
+
+
+---
+
+### 🛠️ Interactive Tech Stack
+*Hover over the icons in the actual repository to see details!*
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="33%" align="center">
-        <img src="https://skillicons.dev/icons?i=python,nodejs,ts,aws&perline=2" /><br />
-        <b>Core & Cloud</b>
-      </td>
-      <td width="33%" align="center">
-        <img src="https://skillicons.dev/icons?i=postgres,prisma,docker,mysql&perline=2" /><br />
-        <b>Infra & Data</b>
-      </td>
-      <td width="33%" align="center">
-        <img src="https://skillicons.dev/icons?i=tensorflow,fastapi,react,nextjs&perline=2" /><br />
-        <b>AI & Frontend</b>
-      </td>
-    </tr>
-  </table>
+  <img src="https://skillicons.dev/icons?i=py,ts,js,nodejs,aws,docker,postgres,prisma,mysql,react,nextjs,tailwind,fastapi,flask,cpp,git&perline=8" />
 </div>
 
 ---
 
-### ⚡ Performance Benchmarks
-Recruiters and FAANG engineers look for optimization. Here is my impact:
-
-- 🏎️ **p99 Latency:** Reduced by **35%** via async processing & server-side caching.
-- 🚀 **System Throughput:** Scaled backend to handle **100K+ concurrent requests**.
-- 🔍 **Data Retrieval:** Boosted query performance by **40%** using Prisma/PostgreSQL tuning.
-
-
-
----
-
-### 🔥 Featured Laboratory
-
-#### 🤖 [CaptionGen](https://github.com/dakidinesh/CaptionGen) — `Generative AI`
-> **The Effect:** Multimodal image-to-text orchestration using **Gemini 2.0 Flash**.
-> - Sub-second latency for AI metadata generation.
-> - Advanced prompt engineering for context-aware captions.
-
-#### 🎧 [MoodTunes](https://github.com/dakidinesh/MoodTunes) — `Computer Vision`
-> **The Effect:** Real-time facial expression mapping to Spotify API.
-> - High-accuracy **CNN-based** emotion classifier.
-> - Low-latency webcam stream processing.
+### 🚀 Performance & Scalability Metrics
+| Metric | Impact | Status |
+| :--- | :--- | :---: |
+| **API Latency** | Reduced by **35%** via Redis/Async | 🟢 |
+| **System Throughput** | **100K+** requests/campaign | 🟢 |
+| **Data Retrieval** | **40%** faster via Query Tuning | 🟢 |
+| **AWS Cloud Architecture** | Certified Developer - Associate | 🎓 |
 
 ---
 
-### 📊 Code Pulse (Dark Transparent Mode)
+### 🔭 Current Exploration
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dakidinesh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakidinesh&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="42%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dakidinesh&theme=tokyonight" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dakidinesh&repo=CaptionGen&theme=tokyonight&border_radius=10" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dakidinesh&repo=MoodTunes&theme=tokyonight&border_radius=10" width="45%" />
 </div>
 
 ---
 
+### 📈 Real-Time GitHub Activity
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dakidinesh&color=00b4d8&style=flat-square&label=VISITOR+LOGS" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dakidinesh&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakidinesh&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dakidinesh&theme=tokyonight" width="95%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dakidinesh&theme=tokyonight&utcOffset=8" width="95%" />
+</div>
+
+---
+
+### 🤝 Connect with Me
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dakidinesh&color=00b4d8&style=flat-square&label=DASHBOARD+VIEWS" />
   <br />
-  <i>📍 Los Angeles, CA • <b>Open to Relocation</b> • Looking for 2025 Engineering Roles</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00b4d8&center=true&vCenter=true&width=435&lines=Building+the+future+of+AI+Infrastructure" />
   <br />
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00b4d8&height=20&section=footer" width="100%" />
 </div>
