@@ -1,53 +1,69 @@
-# 🚀 Dinesh Daki | Software Engineer
+# Hi, I'm Dinesh Daki 👋 
 
 <p align="left">
   <a href="https://linkedin.com/in/dineshdaki"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:dakidinesh0711@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://dakidinesh.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://github.com/dakidinesh/dakidinesh/raw/main/Dinesh_Daki_Resume.pdf"><img src="https://img.shields.io/badge/Download_Resume-FF9900?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
 </p>
 
-### 👨‍💻 About Me
-[cite_start]I am a **Software Engineer** pursuing an M.S. in Computer Science at **CSU Fullerton** (GPA 3.8)[cite: 47]. [cite_start]I specialize in building **high-throughput backend systems** and **AI-driven applications**[cite: 44, 45]. [cite_start]My focus is on bridging the gap between robust software architecture and cutting-edge Generative AI[cite: 81].
+### 🚀 Software Engineer | AI & Backend Developer
+I am a Software Engineer and MSCS student at **California State University, Fullerton** (GPA 3.8/4.0). I specialize in architecting high-performance backend systems and building production-ready AI applications using **Python, Node.js, and AWS**.
 
 ---
 
-### 🛠️ Tech Stack & Expertise
+### 🛠️ Technical Arsenal
 
-| Category | Skills |
+| Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | [cite_start]Python, TypeScript, JavaScript, SQL, C++, C [cite: 79] |
-| **Backend** | [cite_start]Node.js, FastAPI, Express.js, Flask, REST APIs [cite: 80, 81] |
-| **Cloud/DevOps** | [cite_start]AWS (Certified Developer), Docker, CI/CD, Prisma [cite: 81, 83] |
-| **AI/ML** | [cite_start]GenAI, Multimodal LLMs (Gemini), Computer Vision, TensorFlow [cite: 77, 81] |
+| **Languages** | Python, TypeScript, JavaScript, SQL, C++, C |
+| **Backend** | Node.js, FastAPI, Express.js, Flask, Prisma, REST APIs |
+| **Frontend** | React.js, Next.js, Tailwind CSS, Material-UI |
+| **Cloud/DevOps** | AWS (Certified Developer), Docker, CI/CD, PostgreSQL, MySQL |
+| **AI/ML** | Generative AI, Multimodal LLMs (Gemini 2.0), Computer Vision, TensorFlow |
+
+---
+
+### 🏗️ Professional Impact
+
+* **Latency Reduction:** Slashed API latency by **35%** through database query optimization and server-side caching.
+* **Scalable Architecture:** Built a high-throughput communication platform supporting **100K+ messages/calls** per campaign.
+* **Performance Tuning:** Boosted data retrieval performance by **40%** using PostgreSQL optimization and Prisma ORM.
+* **Data Pipelines:** Improved ETL throughput by **25%** by designing scalable pipelines on AWS.
 
 ---
 
 ### 🔥 Featured Projects
 
 #### 🤖 [CaptionGen](https://github.com/dakidinesh/CaptionGen)
-* [cite_start]**The Build:** React + Python + Google Gemini 2.0 Flash[cite: 74, 75].
-* [cite_start]**Cool Factor:** Uses a multimodal LLM to analyze images and orchestrate prompts for context-aware Instagram captions in real-time[cite: 76].
+**Multimodal AI Captioning Tool** * Integrates **Google Gemini 2.0 Flash** to analyze images and generate context-aware social media captions.
+* **Tech:** React, Python, Gemini API, Tailwind CSS.
 
 #### 🎵 [MoodTunes](https://github.com/dakidinesh/MoodTunes)
-* [cite_start]**The Build:** OpenCV + TensorFlow + Flask + Spotify API[cite: 77].
-* [cite_start]**Cool Factor:** Detects facial expressions via webcam using a CNN-based emotion classifier to curate personalized Spotify playlists[cite: 77].
-
----
-
-### 📊 Performance & Impact
-* [cite_start]⚡ **Optimized** database queries and implemented caching to slash API latency by **35%**.
-* [cite_start]🏗️ **Architected** a high-throughput voice/SMS platform scaling to **100K+ messages** per campaign[cite: 58].
-* [cite_start]📈 **Improved** data retrieval performance by **40%** using Prisma and PostgreSQL optimization[cite: 59].
+**Emotion-Based Music Recommender** * Real-time facial expression detection using a **CNN-based classifier** to curate Spotify playlists.
+* **Tech:** Python, OpenCV, TensorFlow, Flask, Spotify API.
 
 ---
 
 ### 🏆 Certifications
-* [cite_start]☁️ **AWS Certified Developer – Associate** (May 2025) [cite: 83]
-* [cite_start]🐍 **Python for Data Science & AI** – IBM [cite: 84, 85]
+* ☁️ **AWS Certified Developer – Associate (DVA-C02)**
+* 🐍 **Python for Data Science, AI & Development** (IBM)
 
 ---
 
+### 📊 GitHub Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakidinesh&layout=compact&theme=vision-color" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dakidinesh&theme=vision-color" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dakidinesh&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakidinesh&layout=compact&theme=radical&hide=html,css" alt="Top Languages" height="170px" />
 </div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dakidinesh&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Optimizing systems and building the future of AI, one commit at a time."</i><br>
+  📍 Based in Los Angeles, CA • <b>Open to Relocation</b>
+</p>
