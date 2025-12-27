@@ -5,7 +5,7 @@
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&height=50&lines=Software+Engineer;AWS+Certified+Developer;MSCS+@+CSU+Fullerton;AI+Infrastructure+Specialist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&height=50&lines=Software+Engineer;AWS+Certified+Developer;MSCS+@+CSU+Fullerton;AI+Infrastructure+Specialist;Open+to+Work+for+2025" alt="Typing SVG" />
 
 <br />
 
@@ -53,12 +53,22 @@
 
 ---
 
-### 🔥 TOP-TIER PROJECTS
+### 🏆 CERTIFICATIONS & LEARNING
+<p align="left">
+<img src="https://img.shields.io/badge/AWS-Certified_Developer_Associate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" /> 
+<img src="https://img.shields.io/badge/IBM-Python_for_Data_Science_&_AI-blue?style=flat-square&logo=ibm&logoColor=white" />
+<img src="https://img.shields.io/badge/CSUF-MS_Computer_Science-87CEEB?style=flat-square&logo=academia&logoColor=white" />
+</p>
 
-| Project | Key Tech | Impact |
+---
+
+### 🔥 FEATURED PROJECTS
+
+| Project | Highlights | Tech Stack |
 | :--- | :--- | :--- |
-| **[CaptionGen](https://github.com/dakidinesh/CaptionGen)** | `Gemini 2.0` `React` `FastAPI` | Multimodal AI orchestrator for context-aware content generation. |
-| **[MoodTunes](https://github.com/dakidinesh/MoodTunes)** | `OpenCV` `TensorFlow` `Spotify API` | Real-time emotional intelligence engine for automated music curation. |
+| **[CaptionGen](https://github.com/dakidinesh/CaptionGen)** | Multimodal AI orchestrator for context-aware generation. | `Gemini 2.0` `React` `FastAPI` |
+| **[MoodTunes](https://github.com/dakidinesh/MoodTunes)** | Real-time CNN emotion engine for Spotify curation. | `OpenCV` `TensorFlow` `Flask` |
+| **[ReplyQuick Microservices]** | Scalable Twilio-integrated communication backend. | `Node.js` `Prisma` `TypeScript` |
 
 ---
 
@@ -74,8 +84,27 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dakidinesh&theme=dracula" width="95%" />
 </div>
 
+<br />
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dakidinesh&theme=dracula&utcOffset=8" width="95%" />
+</div>
+
+---
+
+### 🧠 CORE CS & SOFT SKILLS
+<p align="left">
+<b>System Design:</b> Distributed Systems, Microservices, Scalability, Fault Tolerance <br>
+<b>Problem Solving:</b> Data Structures & Algorithms (LeetCode enthusiast) <br>
+<b>Collaboration:</b> Agile/Scrum, CI/CD Workflows, Mentoring
+</p>
+
 ---
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dakidinesh&color=36BCF7&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <br />
   <i>📍 Los Angeles, CA • <b>Open to Relocation</b> • Looking for Software Engineer Roles (Dec 2025)</i>
+  <br />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00b4d8&height=20&section=footer" width="100%" />
 </div>
