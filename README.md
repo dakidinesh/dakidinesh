@@ -66,7 +66,7 @@
   <br />
   <img src="https://komarev.com/ghpvc/?username=dakidinesh&color=00b4d8&style=flat-square&label=VISITOR+LOGS" />
   <br />
-  <i>📍 Los Angeles, CA • <b>Open to Relocation</b> • Looking for 2026 Roles</i>
+  <i>📍 United States • <b>Open to Relocation</b> • Looking for 2026 Roles</i>
   <br />
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00b4d8&height=20&section=footer" width="100%" />
 </div>
